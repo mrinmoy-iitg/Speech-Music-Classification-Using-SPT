@@ -1,5 +1,12 @@
 # Speech-Music-Classification-Using-SPT
 
-Citation:
-
-M. Bhattacharjee, S. R. M. Prasanna and P. Guha, "Speech/Music Classification Using Features From Spectral Peaks," in IEEE/ACM Transactions on Audio, Speech, and Language Processing, vol. 28, pp. 1549-1559, 2020, doi: 10.1109/TASLP.2020.2993152.
+@article{9089263,
+    author={Bhattacharjee, Mrinmoy and Prasanna, S. R. Mahadeva and Guha, Prithwijit},
+    journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+    title={Speech/Music Classification Using Features From Spectral Peaks},
+    year={2020},
+    volume={28},
+    number={},
+    pages={1549-1559},
+    doi={10.1109/TASLP.2020.2993152}
+}
