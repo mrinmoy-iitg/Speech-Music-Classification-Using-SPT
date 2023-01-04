@@ -1,3 +1,4 @@
+<pre>
 # Speech-Music-Classification-Using-SPT
 
 @article{9089263,
@@ -10,3 +11,4 @@
     pages={1549-1559},
     doi={10.1109/TASLP.2020.2993152}
 }
+</pre>
